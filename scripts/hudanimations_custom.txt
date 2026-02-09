@@ -272,3 +272,5 @@ event HudSnapShotReminderIn
 event CompetitiveGame_LowerChatWindow	{ }
 event CompetitiveGame_RestoreChatWindow	{ }
 event HudTournament_MoveChatWindow 		{ }
+
+// https://gist.github.com/Zeesastrous/fac2f3435201e5dbb94111215e9b9c9b
